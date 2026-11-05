@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-related-content-nextjs",
+  "capabilityKey": "liberusoftware/module-cms-related-content",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-cms-related-content-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/cms/nextjs/related-content.md",
+  "presentationPlan": "projects/cms/nextjs/related-content.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
